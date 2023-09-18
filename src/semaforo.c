@@ -1,3 +1,7 @@
+//Solucion laboratorio 2
+//Profesor Marco Villalta
+//Alumnos Darieth Saddam Fonseca y Bryan Salazar Martínez
+//Curso Microcontroladores
 #include <avr/io.h>
 #include <avr/interrupt.h>
 int counterTemp1, counterTemp2, counterTemp3, counterTemp4, estado, boton;
