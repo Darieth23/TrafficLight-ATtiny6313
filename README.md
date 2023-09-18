@@ -1,4 +1,4 @@
-#Laboratorio 2 - GPIOs, interrupciones, timers y FSM.
+# Laboratorio 2 - GPIOs, interrupciones, timers y FSM.
 
 Solución del laboratorio 2 para el curso Laboratorio de microcontroladores, II semestre 2023, Escuela de Ingeniería Eléctrica.
 
